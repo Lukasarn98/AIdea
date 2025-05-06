@@ -1,10 +1,11 @@
-# AIdea
+# Self driving shopping carts in stores
 
-Self driving shopping carts in stores
+Building AI course project.
 
 ## Summary
 
 AI-powered carts with sensors and small electric motors could autonomously steer themselves around the store, avoiding bottlenecks and politely pausing when space is tight. They’d communicate with each other to plan paths, just like self-driving cars in a city grid and the stores products would be marked so AI knows where to go. The shopper just sits back, relaxes and enjoys while the carts go do all the shopping. 
+
 
 
 ## Background
